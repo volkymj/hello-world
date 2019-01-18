@@ -1,2 +1,2 @@
 # hello-world
-For programing for everyone
+# I'm trying to figure this out. That's me!
